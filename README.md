@@ -19,7 +19,7 @@ This is a simple e-commerce website built using Django, a Python web framework.
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/ecommerce.git
+git clone https://github.com/ashishjsharda/ecommerce.git
 
 
 2. Navigate to the project directory:
