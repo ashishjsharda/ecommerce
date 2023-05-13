@@ -50,7 +50,6 @@ The project follows a standard Django project structure:
  - `models.py`: Defines the `Product` model
  - `views.py`: Defines the `product_list` view
 - `ecommerce/`: The main Django project settings
-- `static/`: Static files (CSS, images, etc.)
 - `manage.py`: Django management script
 
 ## Contributing
